@@ -1,0 +1,72 @@
+{
+  "Students": [
+    {
+      "name": "MBA",
+      "value": 20.3
+    },
+    {
+      "name": "Engineering",
+      "value": 94.2
+    },
+    {
+      "name": "BBA",
+      "value": 89.7
+    },
+    {
+      "name": "MBBS",
+      "value": 7.6
+    },
+    {
+      "name": "LLB",
+      "value": 158.1
+    },
+    {
+      "name": "Research",
+      "value": 9.4
+    },
+    {
+      "name": "Other",
+      "value": 14
+    }
+  ],
+  "Studies": [
+    {
+      "name": "Degree",
+      "value": 39.81
+    },
+    {
+      "name": "Masters",
+      "value": 84.6
+    }
+  ],
+  "Migrated": [
+    {
+      "name": "MBA",
+      "value": 7.9
+    },
+    {
+      "name": "engineering",
+      "value": 47.1
+    },
+    {
+      "name": "BBA",
+      "value": 60.2
+    },
+    {
+      "name": "MBBS",
+      "value": 2.6
+    },
+    {
+      "name": "LLB",
+      "value": 15
+    },
+    {
+      "name": "Research",
+      "value": 4.7
+    },
+    {
+      "name": "Other",
+      "value": 6.7
+    }
+  ]
+}
